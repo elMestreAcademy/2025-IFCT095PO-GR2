@@ -10,7 +10,8 @@ Muestra al usuario el resultado de la operación
 ## 02 - Condicional:
 
 Dado el programa anterior:
-    - Si el PVP es menor a 100 imprime
-        - "Vamos a comprarlo"
-    - En caso contrario imprime
-        - "No podemos permitirnoslo"
+
+- Si el PVP es menor a 100 imprime
+    - "Vamos a comprarlo"
+- En caso contrario imprime
+    - "No podemos permitirnoslo"
