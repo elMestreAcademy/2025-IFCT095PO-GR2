@@ -23,13 +23,13 @@
 ## 2) Terminal & Entorno de trabajo
 
 - [0] **Uso de Terminal** (Windows PowerShell/Bash): navegación, alias, redirecciones, permisos, variables de entorno.
-- [0] **VS Code**
-  - Extensiones sugeridas: Python, Pylance, Black, isort, Prettier, Django, GitLens.
-  - Debugger integrado y launch.json básico para Django.
 - [0] **Git** (imprescindible)
   - Flujo básico: `init/clone`, `status`, `add`, `commit`, `log`, `diff`, `restore`, `rm`, `.gitignore`.
   - **Branching** y **PRs** (GitHub): `branch`, `switch`, `merge`, `rebase` (opcional), **conventional commits**.
   - **Remotos**: GitHub; *opcional*: GitKraken como cliente visual.
+- [0] **VS Code**
+  - Extensiones sugeridas: Python, Pylance, Black, isort, Prettier, Django, GitLens.
+  - Debugger integrado y launch.json básico para Django.
 
 ---
 
