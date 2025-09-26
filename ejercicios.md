@@ -15,3 +15,24 @@ Dado el programa anterior:
     - "Vamos a comprarlo"
 - En caso contrario imprime
     - "No podemos permitirnoslo"
+
+## 03 e.control
+
+- Escribe código que haga la cuenta atrás de un cohete
+
+ej:
+
+```
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+DESPEGUE!
+BROOOOOOOMMMMMM
+---------------
