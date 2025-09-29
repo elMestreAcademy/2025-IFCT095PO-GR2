@@ -9,6 +9,7 @@
 - [W³ Schools - Python](https://www.w3schools.com/python/default.asp)
 - [Vacuum tube vs transistor](https://www.eeweb.com/what-are-some-advantages-of-designing-with-vacuum-tubes/)
 - [Capas Servidor web](https://x.com/MoureDev/status/1965763056769613854/photo/1)
+- [Naming Conventions](https://medium.com/@code.ceeker/naming-conventions-camel-case-pascal-case-kebab-case-and-more-dc4e515b9652)
 
 ## Grabaciones
 
