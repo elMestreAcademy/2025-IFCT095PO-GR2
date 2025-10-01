@@ -47,8 +47,18 @@ Resuelve estos ejercicios usando funciones
 - Escribir una función que reciba un número entero positivo y devuelva su factorial. 
 
 ```
-ej: 
+ej de factorial: 
     4! => 4·3!
     3! => 3·2!
     4! => 4·3·2·1
+    4! => 24
+```
+
+```python
+def factorial(numero):
+    pass 
+
+numero = 4
+resultado = factorial(numero)
+print("El factioral de {numero} es {resultado}")
 ```
