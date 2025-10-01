@@ -45,3 +45,19 @@ a = 1                     # Operador de asiganación -- Dentro de a <= 1 guardam
 while a <= 10:             # Operador de igualdad -- Comparamos a con un 1 -- True, False
     print("Kowabunga", a)
     a += 1
+
+x = 10
+acumulado = 1000
+
+print("Instruccion 1")
+print("Instruccion 2")
+print("Instruccion 3")
+
+if x > 5:
+    print("Se ejecuta la parte del if")
+    acumulado = acumulado * 2
+
+print("Instruccion 5")
+print("Instruccion 6")
+print("aculumaldo: ", acumulado)
+
