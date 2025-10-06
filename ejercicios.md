@@ -62,3 +62,8 @@ numero = 4
 resultado = factorial(numero)
 print("El factioral de {numero} es {resultado}")
 ```
+
+## 05 Casteo
+
+Escribe una funcion recursiva que devuelva un numero entero
+La función pedira al usuario el dato una y otra vez hasta que introduzca un num válido
