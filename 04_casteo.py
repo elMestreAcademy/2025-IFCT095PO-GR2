@@ -1,5 +1,6 @@
 def detalles(variable):
-	print(variable, "-", type(variable))
+    print(variable, "-", type(variable))
+
 
 a = int(3)
 b = int(3.95)
@@ -17,7 +18,6 @@ detalles(c + a)
 print("resultado:")
 resultado = int(round(3.8 / 2))
 detalles(resultado)
-
 
 print("Input:")
 variable = input("Introduce la cantidad: ")
