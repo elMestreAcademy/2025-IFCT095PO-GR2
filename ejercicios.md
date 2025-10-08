@@ -67,3 +67,11 @@ print("El factorial de {numero} es {resultado}")
 
 Escribe una funcion recursiva que devuelva un numero entero
 La función pedira al usuario el dato una y otra vez hasta que introduzca un num válido
+
+## FizzBuzz
+
+Escribe un programa que muestre por consola (con un print) los números de 1 a 100 (ambos incluidos y con un salto de línea entre cada impresión), sustituyendo los siguientes:
+
+- Múltiplos de 3 por la palabra "Fizz".
+- Múltiplos de 5 por la palabra "Buzz".
+- Múltiplos de 3 y de 5 a la vez por la palabra "FizzBuzz".
