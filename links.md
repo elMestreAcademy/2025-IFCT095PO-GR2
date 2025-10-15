@@ -11,6 +11,9 @@
 - [Capas Servidor web](https://x.com/MoureDev/status/1965763056769613854/photo/1)
 - [Naming Conventions](https://medium.com/@code.ceeker/naming-conventions-camel-case-pascal-case-kebab-case-and-more-dc4e515b9652)
 
+- [Imports in Python](https://www.geeksforgeeks.org/python/absolute-and-relative-imports-in-python/)
+- [HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
+
 ## Grabaciones
 
 - [https://masterfactories.com/campograndeformacion/<DNI>](https://masterfactories.com/campograndeformacion/<DNI>)
