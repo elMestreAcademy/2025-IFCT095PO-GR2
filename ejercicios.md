@@ -75,3 +75,9 @@ Escribe un programa que muestre por consola (con un print) los números de 1 a 1
 - Múltiplos de 3 por la palabra "Fizz".
 - Múltiplos de 5 por la palabra "Buzz".
 - Múltiplos de 3 y de 5 a la vez por la palabra "FizzBuzz".
+
+## HTTP
+
+Arregla el método camion del servidor flask
+- Acepta y muestra 3 parametros URL: ruedas, color y peso
+- El servidor NO debe fallar si faltan alguno (o todos) de los parametros
