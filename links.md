@@ -14,7 +14,7 @@
 - [Imports in Python](https://www.geeksforgeeks.org/python/absolute-and-relative-imports-in-python/)
 - [HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
 - [HTTP Status](https://developer.mozilla.org/es/docs/Web/HTTP/Reference/Status)
-- [Django Docs - first Django app,](https://docs.djangoproject.com/en/5.2/)
+- [Django Docs](https://docs.djangoproject.com/en/5.2/)
 - [Django Docs - first Django app,](https://docs.djangoproject.com/en/5.2/intro/tutorial01/)
 
 ## Grabaciones
