@@ -21,21 +21,27 @@ def casa():
     return f"Mi casa es el num {contador}"
 
 
+def sanitize_int(dato):
+    sanitized = None
+    try:
+        int(dato)
+        sanitized = int(dato)
+    except TypeError:
+        sanitized = "NONE"
+    except ValueError:
+        sanitized = "INVALID"
+
+    return sanitized
+
+
 @app.route("/camion")
 def camion():
-    cilindros = request.args.get('ruedas')
-    k = request.args.get('k')
+    ruedas = sanitize_int(request.args.get('ruedas'))
 
-    k = "perro"
-
-    print(type(cilindros))
-    a = int(cilindros)
-    print(type(a))
     response = f"He visto pasar {contador * 7} camiones"
-    response += f'<h1> Tenemos  : {round(a / 10)} ruedas en el camion</h1>'
+    response += f'<h1> Tenemos  : {ruedas} ruedas en el camion</h1>'
 
     return response
-
 
 
 if __name__ == '__main__':
