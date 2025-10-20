@@ -27,19 +27,24 @@ def sanitize_int(dato):
         int(dato)
         sanitized = int(dato)
     except TypeError:
-        sanitized = "NONE"
+        # sanitized = "NONE"
+        print("[WARN: missing parameter]")
     except ValueError:
-        sanitized = "INVALID"
+        # sanitized = "INVALID"
+        print("[WARN: missing parameter]")
 
     return sanitized
 
 
 @app.route("/camion")
 def camion():
-    ruedas = sanitize_int(request.args.get('ruedas'))
 
     response = f"He visto pasar {contador * 7} camiones"
-    response += f'<h1> Tenemos  : {ruedas} ruedas en el camion</h1>'
+
+    for arg in ["ruedas", "color", "peso"]:
+        dato = sanitize_int(request.args.get(arg))
+        if dato is not None:
+            response += f'<h1> Tenemos  : {dato} {arg} en el camion</h1>'
 
     return response
 
