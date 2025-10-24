@@ -10,12 +10,15 @@
 - [Vacuum tube vs transistor](https://www.eeweb.com/what-are-some-advantages-of-designing-with-vacuum-tubes/)
 - [Capas Servidor web](https://x.com/MoureDev/status/1965763056769613854/photo/1)
 - [Naming Conventions](https://medium.com/@code.ceeker/naming-conventions-camel-case-pascal-case-kebab-case-and-more-dc4e515b9652)
-
 - [Imports in Python](https://www.geeksforgeeks.org/python/absolute-and-relative-imports-in-python/)
 - [HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
 - [HTTP Status](https://developer.mozilla.org/es/docs/Web/HTTP/Reference/Status)
 - [Django Docs](https://docs.djangoproject.com/en/5.2/)
 - [Django Docs - first Django app,](https://docs.djangoproject.com/en/5.2/intro/tutorial01/)
+- [tz database time zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
+- [ISO 639-1 - códigos de pais](https://es.wikipedia.org/wiki/ISO_639-1)
+- [SQL Data types](https://www.w3schools.com/sql/sql_datatypes.asp)
+
 
 ## Grabaciones
 
